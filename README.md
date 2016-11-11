@@ -2,4 +2,4 @@
 
 # Engineering Jobs at Five.Good.Friends
 
-* [Rails Software Engineer](/rails-software-engineer)
+We don't have any open positions, but are always happy to have a chat. Send an email to engineering-team@fivegoodfriends.com.au.
