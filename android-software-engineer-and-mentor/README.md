@@ -45,7 +45,7 @@ Because of the pair programming requirement we think this contract should be on-
 
 ## How To Apply
 
-Send an email with your rate, timeline, and resume to engineering-team@fivegoodfriends.com.au.
+Send an email with your rate, timeline, and resume to engineering-team@fivegoodfriends.com.au. No recruiters at this stage. Thanks.
 
 [1]: https://www.fivegoodfriends.com.au
 [2]: https://github.com/turbolinks/turbolinks-android
