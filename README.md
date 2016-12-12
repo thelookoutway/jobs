@@ -2,4 +2,4 @@
 
 # Engineering Jobs at Five.Good.Friends
 
-* [Android Software Engineer and Mentor](/android-software-engineer-and-mentor)
+We don't have any open positions, but feel free to send an email to engineering-team@fivegoodfriends.com.au and say Hi :-). We are always considering positions for Ruby, Rails, JavaScript, iOS, and Android even if they're not published here.
