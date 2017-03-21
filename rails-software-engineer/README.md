@@ -2,11 +2,11 @@
 
 # Rails Software Engineer
 
-[Five.Good.Friends.][1] is a new end-to-end service that helps ageing Australians stay at home to continue living the life they love. Our helpers provide a range of services including domestic care, companionship, and yard maintenance while our engineers build the software that makes delivery of these services transparent, flexible, and efficient. We are already delivering these services to paying customers. We are lead by a seasoned team, have funding to scale our operation, and are expecting substantial growth in the coming year.
+[Five Good Friends][1] is a new end-to-end service that helps ageing Australians stay at home to continue living the life they love. Our helpers provide a range of services including domestic care, companionship, and yard maintenance while our engineers build the software that makes delivery of these services transparent, flexible, and efficient. We are already delivering these services to paying customers. We are lead by a seasoned team, have funding to scale our operation, and are expecting substantial growth in the coming year.
 
-As an engineer at Five.Good.Friends. you’ll be helping lift the aged care sector out of crisis by building innovative software that bridges services between the ageing, their families, and passionate helpers. You should be someone who thrives on autonomy, problem solves with the team, and seeks out the bigger picture for every line of code you write. If you are willing, there is an opportunity to learn iOS development, modelling with events, and automating systems with Ansible.
+As an engineer at Five Good Friends you’ll be helping lift the aged care sector out of crisis by building innovative software that bridges services between the ageing, their families, and passionate helpers. You should be someone who thrives on autonomy, problem solves with the team, and seeks out the bigger picture for every line of code you write. If you are willing, there is an opportunity to learn iOS development, modelling with events, and automating systems with Ansible.
 
-To that end, we are looking for a Rails Software Engineer to join our team.  Depending on preferences you will contribute to building our consumer facing application, or automating our back-office operations. Our stack consists of a single Rails application, PostgreSQL, Redis, and StatsD. You should be comfortable using Rails for what it’s good for, but deviating where it makes sense.
+To that end, we are looking for a Rails Software Engineer to join our team. Depending on preferences you will contribute to building our consumer facing application, or automating our back-office operations. Our stack consists of a single Rails application, PostgreSQL, Redis, and StatsD. You should be comfortable using Rails for what it’s good for, but deviating where it makes sense.
 
 Our team is small, focused, and prides itself on sustainably delivering working software. We have an open dialogue with stake holders, maintain a single backlog of work in GitHub issues, and communicate via Slack. We recognise that our processes are always a work-in-progress and strive to better ourselves.
 
@@ -44,18 +44,23 @@ If you have any of these things, great. If not, we are willing to teach if you a
 
 Depending on skills and experience we are prepared to offer:
 
-* A salary between $90,000 and $130,000 + Super.
-* Laptop of your choosing.
-* Flexible and sustainable working environment.
-* Direct line of sight to product outcomes.
-* Extra vacation over time.
+* A salary between $90,000 and $130,000 + Super
+* Laptop, keyboard, mouse, adapters, and huge display
+* Flexible and sustainable working environment
+* Direct line of sight to product outcomes
+* Extra annual leave over time
+* Health and wellbeing allowance
 
-## Location (Remote is OK)
+## Location
 
-We've got an office in Brisbane, but you can work from anywhere in Australia. If you work remotely we will occasionally fly you to Brisbane.
+Our office is on Turbot Street in the Brisbane CBD. We overlook the Roma St Parklands and Mount Coot-tha. There is an amazing food court downstairs, but we also have a fridge and microwave. Central Station and the Adelaide Street/King George Square bus stops are 5 minutes walk away. The BCC car park is close by too.
+
+## Recruiters
+
+No recruiters, thanks.
 
 ## How To Apply
 
-Send an email with your resume to engineering-team@fivegoodfriends.com.au.
+Send an email with your resume to hello@fivegoodfriends.com.au with the subject "Rails Software Engineer at Five Good Friends".
 
 [1]: https://www.fivegoodfriends.com.au
