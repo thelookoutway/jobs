@@ -4,4 +4,5 @@
 
 Currently open jobs:
 
+* [Lead UI Designer](/lead-ui-designer)
 * [Rails Software Engineer](/rails-software-engineer)
