@@ -2,7 +2,7 @@
 
 # Lead UI Designer
 
-Five Good Friends is a new end-to-end service that curates and delivers help to ageing Australians. We know that a little help goes a long way to enabling Australians to stay at home so they can continue living life on their own terms. Help services are curated by our expert team of Community Managers and delivered by a network of Helpers. Helpers love having regular Members, and Members love having control and transparency over the help they receive. All of this is underpinned by software, and design is front and centre. We are lead by a seasoned management team, have funding to scale our operation, and are navigating substantial growth.
+[Five Good Friends](https://www.fivegoodfriends.com.au) is a new end-to-end service that curates and delivers help to ageing Australians and Australians living with a disability. We know that a little help goes a long way to enabling Australians to stay at home so they can continue living life in their community. Help services are curated by our expert team of Community Managers and delivered by a network of Helpers. Helpers love having regular Members, and Members love having control and transparency over the help they receive. All of this is underpinned by software, and design is front and centre. We are lead by a seasoned management team, have funding to scale our operation, and are navigating substantial growth.
 
 As our lead UI designer, you will be helping lift the aged care sector out of crisis by designing the software that bridges help between Members, the Community Managers, and the network of Helpers. You will make design a first class citizen by taking the reigns from our Product Manager and owning it as your entire focus. You are an advocate for our users, have a high benchmark for quality, and your design inspires the team to build delightful software.
 
@@ -19,10 +19,10 @@ We are a small, focused team, and pride ourselves on delivering value sustainabl
 
 ## Requirements
 
-* Willing to learn and be responsive to the aged care sector, ageing Australians, their families, and the network of Helpers.
+* Willing to learn and be responsive to the aged care sector and disability service sector.
 * Taking ideas from concept through to production. You will reject the bad ones, sniff out the real requirements for good ones, understand trade-offs, and support the Product Manager and Engineering Team during delivery.
 * Being receptive to feedback and coaching others to give good feedback.
-* Have direct experience designing UIs for multiple platforms and contexts. We are on web and iOS, with aspirations to support Android in the future.
+* Have direct experience designing UIs for multiple platforms and contexts. We are on [web](https://app.fivegoodfriends.com.au/) and [iOS](https://itunes.apple.com/au/app/five-good-friends/id1169214550?mt=8), with aspirations to support Android in the future.
 * A master of Sketch, Photoshop, or Illustrator. Your workflows with these tools will blow us away. You pixel fit shapes, carefully organise layers, and annotate flows between screens.
 * Organise, slice, and prepare UI assets for the responsive web, iOS, and Android. Blurry assets on high density screens make you sad.
 * Strong interpersonal and communication skills.
@@ -46,8 +46,8 @@ Depending on skills and experience we are prepared to offer:
 * Salary between $80,000 and $100,000 + Super.
 * Laptop, keyboard, mouse, all the adapters, and a huge display.
 * Flexible and sustainable working environment.
-* Extra annual leave over time accruing one extra day of annual leave per year.
-* Health and wellbeing allowance to spend on things like gym membership, dance classes, running shoes, or anything that improves your health and wellbeing.
+* Extra annual leave over time accruing one extra day of annual leave per year (Capped at 5 years).
+* $500 Health and wellbeing allowance to spend on things like gym membership, dance classes, running shoes, or anything that improves your health and wellbeing.
 
 ## Location
 
