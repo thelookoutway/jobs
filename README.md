@@ -2,4 +2,4 @@
 
 # Jobs at Five Good Friends
 
-We aren't advertising for any jobs, but we are always happy to have a conversation. Please feel free to reach out at engineering-team@fivegoodfriends.com.au.
+* [Web Developer (Contract)](/web-developer-contract)
