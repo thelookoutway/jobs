@@ -53,6 +53,10 @@ We are seeking both intermediate and senior people. Depending on skills and expe
 - Extra days of annual leave over time.
 - $500 health and wellbeing allowance to spend on gym membership, running shoes, cooking classes, dancing classes, or anything that you feel will help your wellbeing.
 
+# Length
+
+Permanent, full time.
+
 # Location (Remote is OK)
 
 We've got an office in Brisbane, but you can work from anywhere that overlaps with Brisbane at least 5 hours per day and as long as you have the right to work in Australia.

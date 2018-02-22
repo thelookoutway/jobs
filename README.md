@@ -2,4 +2,4 @@
 
 # Jobs at Five Good Friends
 
-* [Rails Software Engineer](/rails-software-engineer)
+* 2 open positions for [Rails Software Engineer](/rails-software-engineer)
