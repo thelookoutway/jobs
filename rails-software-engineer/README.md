@@ -44,9 +44,9 @@ If you have any of these things, great. If not, we are willing to teach (Or get 
 
 # Benefits
 
-We are seeking both intermediate and senior people. Depending on skills and experience we are prepared to offer:
+Depending on skills and experience we are prepared to offer:
 
-- A base salary between $85,000 and $130,000 + Super.
+- A base salary up to $130,000 + Super.
 - Laptop, keyboard, mouse, adapters, and huge display.
 - Direct line of sight to product outcomes.
 - Flexible, sustainable, and safe working environment.
@@ -73,4 +73,4 @@ Five Good Friends is reinventing traditional home-care by building a self-direct
 
 # How To Apply
 
-Send an email with your resume to [hello@fivegoodfriends.com.au](mailto:hello@fivegoodfriends.com.au) with the subject "acts_as_software_engineer".
+Send an email with your resume to [hello@fivegoodfriends.com.au](mailto:hello@fivegoodfriends.com.au) with the subject "acts_as_software_engineer". Yes, it's a silly subject, but you'd be surprised how many people don't read this paragraph.
