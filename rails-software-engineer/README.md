@@ -73,4 +73,4 @@ Five Good Friends is reinventing traditional home-care by building a self-direct
 
 # How To Apply
 
-Send an email with your resume to [hello@fivegoodfriends.com.au](mailto:hello@fivegoodfriends.com.au) with the subject "acts_as_software_engineer". Yes, it's a silly subject, but you'd be surprised how many people don't read this paragraph.
+Send an email with your resume to [recruitment@fivegoodfriends.com.au](mailto:recruitment@fivegoodfriends.com.au) with the subject "acts_as_software_engineer". Your resume will be made blind before it is reviewed by the engineering team.
