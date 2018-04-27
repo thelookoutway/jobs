@@ -4,8 +4,8 @@
 
 [Five Good Friends](https://www.fivegoodfriends.com.au) is building Australia's best home care company by combining easy to use technology with specialised and caring people. We are raising ambitions as to what you should expect from a care company. We are focused on the customer experience and believe significant change is required. We are passionate about keeping people connected to the homes, communities, and life they love. We already have hundreds of paying customers and funding to scale our footprint nationally.
 
-- Did you know that caring intimately for someone is actually a family problem? You will craft apps that improve transparency and give control back to our customers and their families.
-- Do you believe that better decisions can be made if you combine insightful data with specialised people? You will build the software that augments decision-making to improve customer health outcomes.
+- Did you know that caring intimately for someone is actually a family problem? You will help craft apps that improve transparency and give control back to our customers and their families.
+- Do you believe that better decisions can be made if you combine insightful data with specialised people? You will help build the software that augments decision-making to improve customer health outcomes.
 - Do you prefer to work in small, multi-disciplinary teams where you can influence change? We form small teams around one big project at a time and we collaborate through Basecamp and GitHub. You should lean toward being a generalist, although there is room to specialise in the future.
 - Do you think you should learn at work? We place a huge emphasis on collectively learning through experimentation, shared ownership, and working sustainably.
 
