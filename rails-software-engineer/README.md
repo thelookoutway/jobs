@@ -59,7 +59,7 @@ Permanent, full time.
 
 # Location (Remote is 👍)
 
-We've got an office in Brisbane, but you can work from anywhere in Australia that overlaps with Brisbane at least 5 hours per day.
+We've got an office in Brisbane, but you can work from anywhere in Australia.
 
 Our Brisbane office is on Turbot Street in the CBD. We overlook the Roma St Parklands and Mount Coot-tha. We do a weekly shopping order from Coles which includes plenty of fruit and snacks.
 
