@@ -2,7 +2,7 @@
 
 # Rails Software Engineer
 
-[Five Good Friends](https://www.fivegoodfriends.com.au) is building Australia's best home care company by combining easy to use technology with specialised and caring people. We are raising ambitions as to what you should expect from a care company. We are focused on the customer experience and believe significant change is required. We are passionate about keeping people connected to the homes, communities, and life they love. We already have hundreds of paying customers and funding to scale our footprint nationally.
+[Five Good Friends](https://www.fivegoodfriends.com.au) is building Australia's best home care company by combining easy to use technology with specialised and caring people. We are passionate about keeping people connected to the homes, communities, and life they love. We already have hundreds of paying customers and funding to scale our footprint nationally.
 
 - Did you know that caring intimately for someone is actually a family problem? You will help craft apps that improve transparency and give control back to our customers and their families.
 - Do you believe that better decisions can be made if you combine insightful data with specialised people? You will help build the software that augments decision-making to improve customer health outcomes.
@@ -20,7 +20,7 @@ Our product is underpinned by a monolithic Rails app powered by PostgreSQL, Redi
 - You will occasionally need to respond to system outages after hours, but we go to lengths to make this a rarity.
 - You will keep our users safe, our product secure, and promote a safe and sustainable working environment.
 
-# Requirement
+# Requirements
 
 - You will take features and bug fixes from concept through to production. You will sniff out the real requirements, understand design trade-offs, deploy it to production, and monitor it with metrics.
 - You are experienced using Ruby and relational databases to model concepts with object oriented design.
