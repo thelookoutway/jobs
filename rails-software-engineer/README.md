@@ -2,6 +2,28 @@
 
 # Rails Software Engineer
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Job Type:</strong> Permanent, full-time<br>
+        <strong>Experience Level:</strong> Mid-to-senior<br>
+        <strong>Salary Range:</strong> Up to $130,000 + Super<br>
+        <strong>Location:</strong> Brisbane, Australia or Remote within Australia<br>
+      </td>
+      <td>
+        <strong>Industry:</strong> Healthcare<br>
+        <strong>Company Size:</strong> 30<br>
+        <strong>Company Type:</strong> Private<br>
+        <strong>Company Founded:</strong> July 2016<br>
+        <strong>Hours of Help Delivered:</strong> 54,000+<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 [Five Good Friends](https://www.fivegoodfriends.com.au) is building Australia's best home care company by combining easy to use technology with specialised and caring people. We are passionate about keeping people connected to the homes, communities, and life they love. We already have hundreds of paying customers and funding to scale our footprint nationally.
 
 - Did you know that caring intimately for someone is actually a family problem? You will help craft apps that improve transparency and give control back to our customers and their families.
@@ -13,11 +35,11 @@ Our product is underpinned by a monolithic Rails app powered by PostgreSQL, Redi
 
 # Responsibilities
 
-- You will contribute to our evolving product and its business model.
 - You will have a safe environment to craft and deliver high quality, delightful software.
 - You will automate repetitive tasks and you will sharpen internal tools to keep us running smoothly.
 - You will mentor other Engineers by providing them with technical guidance, ideas, and feedback.
 - You will occasionally need to respond to system outages after hours, but we go to lengths to make this a rarity.
+- You will contribute to our evolving product and its business model. We have an open pitching process and go to great lengths to make it sustainable for everyone to graze and contribute to business decisions.
 - You will keep our users safe, our product secure, and promote a safe and sustainable working environment.
 
 # Requirements
@@ -53,10 +75,6 @@ Depending on skills and experience we are prepared to offer:
 - $500 health and wellbeing allowance to spend on gym membership, running shoes, cooking classes, dancing classes, or anything that you feel will help your wellbeing.
 - Regular 1-on-1s with your manager.
 
-# Length
-
-Permanent, full time.
-
 # Location (Remote is 👍)
 
 We've got an office in Brisbane, but you can work from anywhere in Australia.
@@ -67,6 +85,6 @@ Our Brisbane office is on Turbot Street in the CBD. We overlook the Roma St Park
 
 Introduce yourself by sending an email to recruitment@fivegoodfriends.com.au with the subject "Rails Software Engineer". Please include your resume which will be made blind to the Engineering Team.
 
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
 
 No recruiters, thanks.
