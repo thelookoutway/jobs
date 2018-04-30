@@ -2,4 +2,5 @@
 
 # Jobs at Five Good Friends
 
+* 1 open position for [Product Designer](/product-designer)
 * 1 open position for [Rails Software Engineer](/rails-software-engineer)
