@@ -2,4 +2,4 @@
 
 # Jobs at Five Good Friends
 
-* 1 open position for [Rails Software Engineer](/rails-software-engineer)
+There are no open positions, but we do keep a list of people worth talking to. We'd love to hear from you, tate.johnson@fivegoodfriends.com.au.
